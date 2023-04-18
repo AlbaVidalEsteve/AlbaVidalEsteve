@@ -1,9 +1,7 @@
 ### Hi there, I'm Alba </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**About me**
-
+<b>**About me**<b>
 <br>
-
 - A passionate Self-taught Mobile developer
 - Currently learning Android Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/albavidal)
