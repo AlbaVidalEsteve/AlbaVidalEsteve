@@ -17,8 +17,15 @@
 
    ![Kotlin](https://img.shields.io/badge/Kotlin-5E35B1.svg?style=for-the-badge&logo=kotlin&logoColor=D14AA1)
    
-   ![R](https://img.shields.io/badge/R-blue.svg?style=for-the-badge&logo=r&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+   
+   ![HTML](https://img.shields.io/badge/html-red?style=for-the-badge&logo=html5&logoColor=white)
 
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+
+![R](https://img.shields.io/badge/R-grey.svg?style=for-the-badge&logo=r&logoColor=white)
+   
+   
  <br>
  
 **Softwares and Tools**: </b>
@@ -26,7 +33,7 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-grey.svg?style=for-the-badge&logo=androidstudio&logoColor=#44CC1)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-green.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
  
   <br>
 
