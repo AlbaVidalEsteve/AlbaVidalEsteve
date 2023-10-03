@@ -6,7 +6,7 @@
 
 - A passionate Self-taught Mobile developer
 - Currently learning Android Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/albavidal)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://www.canva.com/design/DAEpdGjIN08/UNTFCTrXIPEYyPBsI9e0Dw/view?utm_content=DAEpdGjIN08&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <br><br>
 
@@ -39,10 +39,10 @@
 
 ## <b>☎️ Contact me</b>
 <br>
-      <a href="https://www.linkedin.com/in/alba-vidal-esteve-07b801184/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/alba-vidal-esteve-07b801184/" target="_blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-         <a href="https://wa.me/+34660517673" target="blank"><img align="center"
+         <a href="https://wa.me/+34660517673" target="_blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
          <a href="mailto:vidalba97@gmail.com" target="_blank"><img align="center"
