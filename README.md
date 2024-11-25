@@ -1,6 +1,6 @@
-### Hi there, I'm Alba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I'm Alba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
----
+
 
 ## ✨ **About me**
 
@@ -60,10 +60,11 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/alba-vidal-esteve-07b801184/)  
 - 📧 [Email](mailto:vidalba97@gmail.com)  
 - 🌐 [Portfolio](https://github.com/AlbaVidalEsteve)  
-
+<!--
 ---
 
 ### **💡 Fun Facts**  
 
 - I fell in love with coding while analyzing data in biology.  
 - I enjoy hiking and exploring marine environments. 
+-->
