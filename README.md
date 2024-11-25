@@ -2,7 +2,7 @@
 
 ---
 
-##✨ **About me**
+## ✨ **About me**
 
 - A Full-Stack Developer with experience in web application development, research, and data analysis.  
 - Started programming with R during biological research and transitioned to web development.  
