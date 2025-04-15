@@ -34,6 +34,9 @@
 ### **Tools**  
 | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 |---|---|---|---|
+### **Tools**  
+| ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
+|---|---|---|---|---|
 
 ---
 
@@ -47,7 +50,9 @@
 -->
 
 ## **🎓 Education & Certifications**
+### 🎓 Formación Académica
 
+- **Grau Superior en Desenvolupament d'Aplicacions Multiplataforma** *DAM* (Salesians Sarrià): 2024 - Now.
 - **Bootcamp .NET** (CIFO La Violeta): 400 hours on .NET, C#, SQL Server, and Azure.  
 - **Web Development Certification** (CIFO Hospitalet): 480 hours focusing on UX, responsive design, and SEO.
 - **Máster en Oceanografía y Gestión del Medio Marino** (Universitat de Barcelona, 2019-2021).  
